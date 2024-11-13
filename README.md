@@ -1,73 +1,50 @@
-<h2 align="left">Olá 👋! Meu nome é Sant e sou um Desenvolvedor Front-End do Brasil.</h2>
+# Kauan Santana 👋
+### Desenvolvedor Front-End
 
-###
+Olá! Sou Kauan Santana, desenvolvedor focado em criar interfaces modernas e intuitivas com **HTML**, **CSS**, **JavaScript** e **React**. Apaixonado por tecnologia, sempre em busca de novos desafios.
 
-<h2 align="left">Sobre!</h2>
+---
 
-###
+## Sobre Mim 🚀
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🛠️ Experiência em **Frontend**: HTML5, CSS3, JavaScript (ES6+), React
+- 📈 Interesse em **Scrum** e metodologias ágeis
 
-<p align="left">Tenho 18 anos, sou desenvolvedor front-end e estudante de Análise e Desenvolvimento de Sistemas, com especialização em Front-End e forte interesse em agilidade com Scrum. Tenho experiência em HTML, CSS, JavaScript e React.js, e utilizo ferramentas como Canva e Figma para desenvolver sites com design moderno e funcional.<br><br>Recentemente, participei de um projeto escolar onde, em colaboração com colegas, desenvolvi um site que permite aos professores enviar atividades e conteúdos para os alunos. Além disso, tenho experiência na gestão de pequenos projetos, sempre focando em alcançar resultados eficientes e em constante evolução. Embora ainda não tenha trabalhado formalmente, já atuei como freelancer, o que me ajudou a aprimorar minhas habilidades técnicas e a trabalhar de forma colaborativa.<br><br>Sou uma pessoa comunicativa, com grande disposição para aprender e me adaptar a novos desafios. Estou em busca de oportunidades que me permitam aplicar meus conhecimentos e crescer profissionalmente em um ambiente dinâmico e colaborativo.<br>Recentemente, participei de um projeto escolar onde, em colaboração com colegas, desenvolvi um site que permite aos professores enviar atividades e conteúdos para os alunos. Além disso, tenho experiência na gestão de pequenos projetos, sempre focando em alcançar resultados eficientes e em constante evolução. Embora ainda não tenha trabalhado formalmente, já atuei como freelancer, o que me ajudou a aprimorar minhas habilidades técnicas e a trabalhar de forma colaborativa.<br><br>Sou uma pessoa comunicativa, com grande disposição para aprender e me adaptar a novos desafios. Estou em busca de oportunidades que me permitam aplicar meus conhecimentos e crescer profissionalmente em um ambiente dinâmico e colaborativo.</p>
+---
 
-###
+## Status 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsantx&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsantx&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
+</div>
 
-<img src="https://raw.githubusercontent.com/devsantx/devsantx/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## Tecnologias
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="React" />
+</div>
 
-<h2 align="left">Redes Sociais</h2>
+---
 
-###
-
+## Conecte-se Comigo 🌐
 <div align="center">
   <a href="https://www.instagram.com/devsantx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/devsantx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">Linguagens</h2>
+## Contato 📬
+📧 kauansantana2721@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/devsantx/)
 
-###
+---
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
-</div>
-
-###
-
-<h2 align="left">Status</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsantx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsantx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31dvrydx4b5j6ztcnqzhllhkapvu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dvrydx4b5j6ztcnqzhllhkapvu&width=1000" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+💡 _"A tecnologia é o meio pelo qual criamos e inovamos."_
