@@ -15,7 +15,7 @@ Olá! Sou Kauan Santana, desenvolvedor focado em criar interfaces modernas e int
 ## Status 🚀
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsantx&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Status do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsantx&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsantx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas"/>
 </div>
 
 ---
@@ -37,6 +37,9 @@ Olá! Sou Kauan Santana, desenvolvedor focado em criar interfaces modernas e int
   </a>
   <a href="https://www.linkedin.com/in/devsantx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/devsantx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Github" />
   </a>
 </div>
 
