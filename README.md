@@ -1,13 +1,13 @@
 # Kauan Santana 👋
 ### Desenvolvedor Front-End
 
-Olá! Sou Kauan Santana, desenvolvedor focado em criar interfaces modernas e intuitivas com **HTML**, **CSS**, **JavaScript** e **React**. Apaixonado por tecnologia, sempre em busca de novos desafios.
+Olá! Sou Kauan Santana, desenvolvedor focado em criar interfaces modernas e intuitivas com **JavaScript**, **React**. **React Native** e **TypeScript** Apaixonado por tecnologia, sempre em busca de novos desafios.
 
 ---
 
 ## Sobre Mim 🚀
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🛠️ Experiência em **Frontend**: HTML5, CSS3, JavaScript (ES6+), React
+- 🛠️ Experiência em **Frontend**: HTML5, CSS3, JavaScript (ES6+), React, React Native
 - 📈 Interesse em **Scrum** e metodologias ágeis
 
 ---
